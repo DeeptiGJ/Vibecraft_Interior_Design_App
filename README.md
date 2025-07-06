@@ -122,7 +122,8 @@ eas build --platform android
 
 ## 🧑‍💻 Contributors
 
-- [Dipayansrkr](https://github.com/Dipayansrkr) — Developer & Project Lead
+- [DeeptiGJ](https://github.com/DeeptiGJ) 
+- [Dipayansrkr](https://github.com/Dipayansrkr) — Developer
 
 ---
 
